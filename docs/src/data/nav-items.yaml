@@ -24,7 +24,7 @@
       path: /analyze/ws-ml-dev/
     - title: Anomaly Detection from Streaming Events
       path: /solution/cp4d/async/
-    - title: Model Lifecycle Governance
+    - title: Model Lifecycle Governance with OpenPages
       path: /solution/cp4d/mdlc/
 - title: Solution Anatomy
   pages:
